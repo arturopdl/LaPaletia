@@ -1,0 +1,7 @@
+{
+  "name": "LaPaletiaa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
